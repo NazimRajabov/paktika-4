@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NAZIM RAJABOV\\source\\repos\\login parol\\login parol\\login parol.csproj": {}
+    "C:\\Users\\NAZIM RAJABOV\\paktika-4\\login parol\\login parol\\login parol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NAZIM RAJABOV\\source\\repos\\login parol\\login parol\\login parol.csproj": {
+    "C:\\Users\\NAZIM RAJABOV\\paktika-4\\login parol\\login parol\\login parol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAZIM RAJABOV\\source\\repos\\login parol\\login parol\\login parol.csproj",
+        "projectUniqueName": "C:\\Users\\NAZIM RAJABOV\\paktika-4\\login parol\\login parol\\login parol.csproj",
         "projectName": "login parol",
-        "projectPath": "C:\\Users\\NAZIM RAJABOV\\source\\repos\\login parol\\login parol\\login parol.csproj",
+        "projectPath": "C:\\Users\\NAZIM RAJABOV\\paktika-4\\login parol\\login parol\\login parol.csproj",
         "packagesPath": "C:\\Users\\NAZIM RAJABOV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAZIM RAJABOV\\source\\repos\\login parol\\login parol\\obj\\",
+        "outputPath": "C:\\Users\\NAZIM RAJABOV\\paktika-4\\login parol\\login parol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
