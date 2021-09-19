@@ -1,0 +1,14 @@
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.exe
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.deps.json
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.runtimeconfig.json
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.runtimeconfig.dev.json
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.dll
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\bin\Debug\netcoreapp3.1\login parol.pdb
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.csproj.AssemblyReference.cache
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.AssemblyInfoInputs.cache
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.AssemblyInfo.cs
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.dll
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.pdb
+C:\Users\NAZIM RAJABOV\source\repos\login parol\login parol\obj\Debug\netcoreapp3.1\login parol.genruntimeconfig.cache
